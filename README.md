@@ -1,6 +1,6 @@
 # professional-profile
 
-Portfólio pessoal de Marcos André Raimundo — dark, code-inspired, construído sem framework e sem etapa de build. Vanilla HTML, CSS e JavaScript.
+Portfólio pessoal de Marcos André Raimundo com estilo dark code-inspired, construído sem framework e sem etapa de build. Vanilla HTML, CSS e JavaScript.
 
 ![Preview animado do portfólio navegando entre as páginas](assets/preview/portfolio-preview.gif)
 
