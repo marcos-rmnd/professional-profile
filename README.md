@@ -5,35 +5,35 @@ Portfólio pessoal de Marcos André Raimundo com estilo dark code-inspired, cons
 ![Preview animado do portfólio navegando entre as páginas](assets/preview/portfolio-preview.gif)
 
 <p>
-  <img src="assets/preview/index-desktop.png" width="49%" alt="Index — hero com nome e botões de ação" />
-  <img src="assets/preview/projects-desktop.png" width="49%" alt="Projects — carrossel com peek lateral" />
+  <img src="assets/preview/index-desktop.png" width="49%" alt="Index - hero com nome e botões de ação" />
+  <img src="assets/preview/projects-desktop.png" width="49%" alt="Projects - carrossel com peek lateral" />
 </p>
 
 <p>
-  <img src="assets/preview/skills-desktop.png" width="49%" alt="Skills — grid de grupos de habilidade" />
-  <img src="assets/preview/experience-desktop.png" width="49%" alt="Experience — linha do tempo profissional" />
+  <img src="assets/preview/skills-desktop.png" width="49%" alt="Skills - grid de grupos de habilidade" />
+  <img src="assets/preview/experience-desktop.png" width="49%" alt="Experience - linha do tempo profissional" />
 </p>
 
 **Mobile (390px):**
 
-<img src="assets/preview/projects-mobile.png" width="32%" alt="Projects em mobile — carrossel com navegação por pontos" />
+<img src="assets/preview/projects-mobile.png" width="32%" alt="Projects em mobile - carrossel com navegação por pontos" />
 
 ---
 
 ## Sobre o projeto
 
-O objetivo era ter um portfólio que qualquer dev consegue abrir no DevTools e entender em minutos — sem camadas de abstração, sem dependências escondidas. Cada decisão foi tomada pensando em legibilidade e facilidade de explicar numa entrevista.
+O objetivo era ter um portfólio que qualquer dev consegue abrir no DevTools e entender em minutos - sem camadas de abstração, sem dependências escondidas. Cada decisão foi tomada pensando em legibilidade e facilidade de explicar numa entrevista.
 
 O carrossel da aba Projects foi construído com CSS nativo, sem biblioteca. A navegação por pontos detecta qual imagem está visível automaticamente. O PDF do currículo é gerado direto pelo browser, sem intermediários.
 
-As fontes foram escolhidas com intenção: JetBrains Mono nas labels e tags dá a sensação de editor de código; Space Grotesk no conteúdo de leitura mantém o texto legível. O layout mobile foi tratado com o mesmo cuidado que o desktop — a maioria dos recrutadores abre links do LinkedIn no celular.
+As fontes foram escolhidas com intenção: JetBrains Mono nas labels e tags dá a sensação de editor de código; Space Grotesk no conteúdo de leitura mantém o texto legível. O layout mobile foi tratado com o mesmo cuidado que o desktop - a maioria dos recrutadores abre links do LinkedIn no celular.
 
 ---
 
-## Projeto em destaque — pato.do.problema
+## Projeto em destaque - pato.do.problema
 
 <p>
-  <img src="assets/projects/internal-support-desk/cover.png" width="32%" alt="Painel N1 — fila de tickets com filtros e métricas" />
+  <img src="assets/projects/internal-support-desk/cover.png" width="32%" alt="Painel N1 - fila de tickets com filtros e métricas" />
   <img src="assets/projects/internal-support-desk/login.png" width="32%" alt="Tela de login com o mascote pato" />
   <img src="assets/projects/internal-support-desk/user.png" width="32%" alt="Área do cliente com chamado em andamento" />
 </p>
